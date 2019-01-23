@@ -6,7 +6,7 @@ The links of the images are included and can be downloaded from the URLs. (You c
 
 Please refer the paper if you are using the dataset.
 
-Zhenguo Yang*, Qing Li, Wenyin Liu, and Jianming Lv, "Shared Multi-view Data Representation for Multi-domain Event Detection", IEEE Transactions on Pattern Analysis and Machine Intelligence, 2019.
+Zhenguo Yang*, Qing Li, Wenyin Liu, and Jianming Lv, "Shared Multi-view Data Representation for Multi-domain Event Detection", IEEE Transactions on Pattern Analysis and Machine Intelligence, DOI: 10.1109/TPAMI.2019.2893953, 2019.
 
 Zhenguo Yang*, Min Cheng, Qing Li, Yukun Li, Zehang Lin, and Wenyin Liu, "Cross-domain and Cross-modality Transfer Learning for Multi-domain and Multi-modality Event Detection", WISE 2017.
 
