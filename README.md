@@ -10,5 +10,5 @@ Zhenguo Yang*, Qing Li, Wenyin Liu, and Jianming Lv, "Shared Multi-view Data Rep
 
 Zhenguo Yang*, Min Cheng, Qing Li, Yukun Li, Zehang Lin, and Wenyin Liu, "Cross-domain and Cross-modality Transfer Learning for Multi-domain and Multi-modality Event Detection", WISE 2017.
 
-For more information, please contact me. Zhenguo Yang, E-mail: zhengyang5-c@my.cityu.edu.hk
+For any question regarding the dataset, please contact Dr. Zhenguo Yang (zhengyang5-c@my.cityu.edu.hk). The raw images can be obtained via sending a request email to us. Specifically, the researchers interested in the dataset should download and fill up the **Dataset Agreement Form** and send it back to us.
 
